@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/AndroidDatePicker/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/AndroidDatePicker/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "6,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "173,59,110",
+                        "endLines": "15,3,4",
+                        "endColumns": "19,49,59",
+                        "endOffsets": "480,104,165"
+                    },
+                    "to": {
+                        "startLines": "2,12,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,358,408",
+                        "endLines": "11,12,13",
+                        "endColumns": "19,49,59",
+                        "endOffsets": "353,403,463"
+                    }
+                }
+            ]
+        }
+    ]
+}

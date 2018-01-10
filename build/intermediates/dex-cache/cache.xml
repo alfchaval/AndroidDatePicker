@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/AndroidDatePicker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="10affa12263c4ca2e32954eeb3ae4dffcc6ec9c2">
+        <dex dex="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/AndroidDatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_251db414be43abbe479352420dbee0a463986813/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/AndroidDatePicker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9bed73088d4cf98217dc9a3f1180a9e9c1bfd973">
+        <dex dex="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/AndroidDatePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7d0fd6d364216a765b8adbad4c62946c5720a502/classes.dex" />
+    </item>
+
+</items>
